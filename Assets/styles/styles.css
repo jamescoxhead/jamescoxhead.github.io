@@ -104,3 +104,29 @@ footer a:hover {
 	color: #212121;
 	text-decoration: none;
 }
+
+.btn-social {
+	border-bottom: solid 5px #ccc;
+}
+
+.btn-social:hover {
+	color: #212121;
+	background-color: #B6B6B6;
+	transition: background-color, 0.5s, ease-out;
+}
+
+.btn-twitter {
+	color: #55ACEE;
+	border-color: #55ACEE;
+	transition: background-color, 0.5s, ease-out;
+}
+
+.btn-linkedin {
+	color: #0077B5;
+	border-color: #0077B5;
+}
+
+.btn-github {
+	color: #212121;
+	border-color: #212121;
+}
