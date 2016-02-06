@@ -16,6 +16,7 @@
 
 body {
 	font-family: 'Titillium Web', sans-serif;
+	font-size: 15px;
 }
 
 section {
@@ -109,24 +110,38 @@ footer a:hover {
 	border-bottom: solid 5px #ccc;
 }
 
-.btn-social:hover {
-	color: #212121;
-	background-color: #B6B6B6;
-	transition: background-color, 0.5s, ease-out;
-}
-
 .btn-twitter {
 	color: #55ACEE;
 	border-color: #55ACEE;
 	transition: background-color, 0.5s, ease-out;
 }
 
+.btn-twitter:hover {
+	background-color: #55ACEE;
+	color: #fff;
+	transition: background-color, 0.5s, ease-out;
+}
+
 .btn-linkedin {
 	color: #0077B5;
 	border-color: #0077B5;
+	transition: background-color, 0.5s, ease-out;
+}
+
+.btn-linkedin:hover {
+	background-color: #0077B5;
+	color: #fff;
+	transition: background-color, 0.5s, ease-out;
 }
 
 .btn-github {
 	color: #212121;
 	border-color: #212121;
+	transition: background-color, 0.5s, ease-out;
+}
+
+.btn-github:hover {
+	background-color: #212121;
+	color: #fff;
+	transition: background-color, 0.5s, ease-out;
 }
