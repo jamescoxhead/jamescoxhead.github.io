@@ -120,6 +120,7 @@ footer a:hover {
 	background-color: #55ACEE;
 	color: #fff;
 	transition: background-color, 0.5s, ease-out;
+    border-color: #55ACEE;
 }
 
 .btn-linkedin {
@@ -132,6 +133,7 @@ footer a:hover {
 	background-color: #0077B5;
 	color: #fff;
 	transition: background-color, 0.5s, ease-out;
+    border-color: #0077B5;
 }
 
 .btn-github {
@@ -144,4 +146,5 @@ footer a:hover {
 	background-color: #212121;
 	color: #fff;
 	transition: background-color, 0.5s, ease-out;
+    border-color: #212121;
 }
